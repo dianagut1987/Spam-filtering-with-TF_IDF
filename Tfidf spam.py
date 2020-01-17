@@ -111,49 +111,6 @@ print("\n")
 # print("similarity between forth and fifth ",result8)
 
 
-# In[64]:
-
-
-df_idf
-
-
-# In[34]:
-
-
-tf_idf_vector
-
-
-# In[36]:
-
-
-tfidf_vectorizer_vectors
-
-
-# In[65]:
-
-
-df
-
-
-# In[45]:
-
-
-similarity
-
-
-# In[ ]:
-
-
-
-
-
-# In[46]:
-
-
-similarity
-
-
-# In[ ]:
 
 
 
