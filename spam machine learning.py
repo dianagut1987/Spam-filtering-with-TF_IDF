@@ -81,26 +81,6 @@ print(pred("big bro"))
 print(pred("in regard to your message"))
 
 
-# In[32]:
-
-
-data
-
-
-# In[46]:
-
-
-pred
-
-
-# In[49]:
-
-
-mes1
-
-
-# In[ ]:
-
 
 
 
